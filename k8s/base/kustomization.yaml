@@ -1,0 +1,15 @@
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+
+commonLabels:
+  app.kubernetes.io/name: purge-ldl
+  app.kubernetes.io/part-of: purge-ldl
+
+resources:
+  - pvc.yaml
+  - deployment.yaml
+  - service.yaml
+
+images:
+  - name: ghcr.io/s3nthilg0pal/ubiquitous-spork
+    newTag: latest

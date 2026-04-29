@@ -1,0 +1,18 @@
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+
+namespace: purge-ldl
+
+resources:
+  - namespace.yaml
+  - ../../base
+
+commonLabels:
+  app.kubernetes.io/instance: purge-ldl-prod
+  app.kubernetes.io/managed-by: argocd
+
+# Pin the image tag here. Argo CD Image Updater (or your CI) can bump this
+# field automatically — Kustomize image transforms are first-class supported.
+images:
+  - name: ghcr.io/s3nthilg0pal/ubiquitous-spork
+    newTag: latest

@@ -2,9 +2,9 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: purge-ldl
-  namespace: purge-ldl
   labels:
-    app: purge-ldl
+    app.kubernetes.io/name: purge-ldl
+    app.kubernetes.io/component: app
 spec:
   # SQLite + RWO PVC means single writer. Keep replicas=1.
   replicas: 1
@@ -12,11 +12,13 @@ spec:
     type: Recreate
   selector:
     matchLabels:
-      app: purge-ldl
+      app.kubernetes.io/name: purge-ldl
+      app.kubernetes.io/component: app
   template:
     metadata:
       labels:
-        app: purge-ldl
+        app.kubernetes.io/name: purge-ldl
+        app.kubernetes.io/component: app
     spec:
       securityContext:
         runAsNonRoot: true
@@ -25,7 +27,7 @@ spec:
         fsGroup: 65532
       containers:
         - name: app
-          image: purge-ldl:latest
+          image: ghcr.io/s3nthilg0pal/ubiquitous-spork:latest
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 8080
