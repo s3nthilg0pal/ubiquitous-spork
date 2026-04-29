@@ -1,0 +1,9 @@
+/data
+**/node_modules
+frontend/dist
+backend/web/assets
+backend/web/index.html.bak
+*.db
+*.db-shm
+*.db-wal
+.DS_Store

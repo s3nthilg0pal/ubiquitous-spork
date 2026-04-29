@@ -1,0 +1,109 @@
+[
+  {
+    "category": "Protein",
+    "items": [
+      "Eggs: 12",
+      "Egg whites (optional carton, or use extra eggs)",
+      "Chicken breast or skinless thigh: 1.2–1.5kg",
+      "Lean beef mince: 500g",
+      "Lean lamb: 300g",
+      "Canned tuna in spring water: 5 cans",
+      "Low-fat Greek yoghurt: 1 large tub",
+      "Hummus: 1 small tub"
+    ]
+  },
+  {
+    "category": "Beans and Legumes",
+    "items": [
+      "Canned chickpeas: 2 cans",
+      "Canned lentils or dry lentils: 2 cans or 1 bag",
+      "Kidney beans or black beans: 1 can",
+      "Cannellini beans: 1 can",
+      "Low-salt baked beans or black beans: 1 can"
+    ]
+  },
+  {
+    "category": "Grains and Carbs",
+    "items": [
+      "Rolled oats: 1 bag",
+      "Brown rice: 1 bag",
+      "Quinoa: 1 small bag",
+      "Wholegrain bread: 1 loaf",
+      "Wholemeal wraps: 1 pack",
+      "Wholemeal pasta: 1 pack",
+      "Wholegrain crackers: 1 pack",
+      "Kumara or potato: 3–4 medium"
+    ]
+  },
+  {
+    "category": "Vegetables",
+    "items": [
+      "Spinach: 1 large bag",
+      "Lettuce: 1 head or bag",
+      "Broccoli: 2 heads",
+      "Mushrooms: 1 punnet",
+      "Tomatoes: 8–10",
+      "Cucumber: 2",
+      "Carrots: 6",
+      "Onions: 5",
+      "Garlic: 1 bulb",
+      "Ginger: 1 small piece",
+      "Capsicum: 3",
+      "Celery: 1 bunch",
+      "Bok choy or cabbage: 1",
+      "Zucchini: 2",
+      "Spring onion: 1 bunch",
+      "Corn: 1 small can or frozen",
+      "Salad vegetables of choice"
+    ]
+  },
+  {
+    "category": "Fruit",
+    "items": [
+      "Apples: 4–5",
+      "Bananas: 4–5",
+      "Berries (fresh or frozen)",
+      "Oranges or kiwifruit: 3–4",
+      "Lemons: 4"
+    ]
+  },
+  {
+    "category": "Healthy Fats",
+    "items": [
+      "Avocados: 2–3",
+      "Almonds: 1 bag",
+      "Walnuts: 1 bag",
+      "Chia seeds: 1 bag",
+      "Ground flaxseed: 1 bag",
+      "Pumpkin seeds: 1 bag",
+      "Peanut butter: 1 jar",
+      "Olive oil or canola oil"
+    ]
+  },
+  {
+    "category": "Canned and Pantry",
+    "items": [
+      "Crushed tomatoes: 4 cans",
+      "Low-salt stock: 1 carton or stock cubes",
+      "Low-salt soy sauce",
+      "Mustard",
+      "Wholemeal breadcrumbs (optional)"
+    ]
+  },
+  {
+    "category": "Spices and Flavour",
+    "items": [
+      "Cinnamon",
+      "Black pepper",
+      "Chilli flakes",
+      "Chilli powder",
+      "Cumin",
+      "Paprika",
+      "Turmeric",
+      "Garam masala",
+      "Mixed herbs",
+      "Rosemary",
+      "Parsley"
+    ]
+  }
+]

@@ -1,0 +1,484 @@
+[
+  {
+    "day": 1,
+    "meals": {
+      "breakfast": {
+        "name": "Oats, Chia and Yoghurt Bowl",
+        "ingredients": [
+          "1/2 cup rolled oats",
+          "1 tbsp chia seeds",
+          "3/4 cup low-fat Greek yoghurt",
+          "1/2 cup berries or chopped apple",
+          "Cinnamon",
+          "1 tbsp chopped almonds or walnuts"
+        ],
+        "method": [
+          "Add oats, chia seeds, yoghurt and fruit to a bowl.",
+          "Mix well.",
+          "Add cinnamon.",
+          "Top with chopped nuts.",
+          "Eat immediately or leave overnight in the fridge."
+        ]
+      },
+      "lunch": {
+        "name": "Chicken Avocado Salad Wrap",
+        "ingredients": [
+          "1 wholemeal wrap",
+          "120–150g cooked chicken breast",
+          "1/4 avocado",
+          "Lettuce or spinach",
+          "Tomato",
+          "Cucumber",
+          "1 tbsp Greek yoghurt",
+          "Lemon juice",
+          "Pepper",
+          "Chilli flakes"
+        ],
+        "method": [
+          "Slice or shred the cooked chicken.",
+          "Mix chicken with Greek yoghurt, lemon juice, pepper and chilli flakes.",
+          "Add lettuce, tomato, cucumber and avocado to the wrap.",
+          "Add chicken mixture.",
+          "Wrap and serve."
+        ]
+      },
+      "dinner": {
+        "name": "Chicken Lentil Curry",
+        "ingredients": [
+          "150g chicken breast or skinless chicken thigh",
+          "1/2 cup cooked lentils or 1/4 cup dry red lentils",
+          "1 onion",
+          "2 tomatoes or 1/2 can crushed tomatoes",
+          "2 garlic cloves",
+          "Small piece of ginger",
+          "1 tsp turmeric",
+          "1 tsp cumin",
+          "Chilli powder to taste",
+          "1/2 tsp garam masala",
+          "1–2 cups spinach",
+          "1 tsp olive oil or canola oil",
+          "1/2 cup cooked brown rice"
+        ],
+        "method": [
+          "Heat oil in a pan.",
+          "Cook onion, garlic and ginger for 2–3 minutes.",
+          "Add turmeric, cumin, chilli and garam masala.",
+          "Add tomatoes and cook until soft.",
+          "Add chicken and lentils.",
+          "Add a little water and simmer until chicken is cooked.",
+          "Stir in spinach at the end.",
+          "Serve with brown rice."
+        ]
+      },
+      "snack": "1 apple\nSmall handful of almonds"
+    }
+  },
+  {
+    "day": 2,
+    "meals": {
+      "breakfast": {
+        "name": "Egg White Veggie Omelette",
+        "ingredients": [
+          "1 whole egg",
+          "2–3 egg whites",
+          "Spinach",
+          "Mushroom",
+          "Tomato",
+          "Onion",
+          "1 slice wholegrain toast",
+          "1/4 avocado",
+          "Pepper"
+        ],
+        "method": [
+          "Cook onion, mushroom, tomato and spinach in a non-stick pan.",
+          "Beat egg and egg whites together.",
+          "Pour eggs over the vegetables.",
+          "Cook until set.",
+          "Serve with wholegrain toast and avocado."
+        ]
+      },
+      "lunch": {
+        "name": "Tuna Chickpea Bowl",
+        "ingredients": [
+          "1 can tuna in spring water, drained",
+          "1/2 can chickpeas, rinsed",
+          "Cucumber",
+          "Tomato",
+          "Red onion",
+          "Spinach",
+          "Lemon juice",
+          "1 tsp olive oil",
+          "Pepper",
+          "Chilli flakes",
+          "Optional: 2 tbsp Greek yoghurt"
+        ],
+        "method": [
+          "Add tuna, chickpeas and vegetables to a bowl.",
+          "Add lemon juice, olive oil, pepper and chilli.",
+          "Mix well.",
+          "Add Greek yoghurt if you want it creamier."
+        ]
+      },
+      "dinner": {
+        "name": "Lean Beef Mince Chilli",
+        "ingredients": [
+          "150g lean beef mince",
+          "1/2 can kidney beans or black beans",
+          "1/2 can crushed tomatoes",
+          "1 onion",
+          "2 garlic cloves",
+          "1 capsicum",
+          "1 tsp cumin",
+          "1 tsp paprika",
+          "Chilli powder to taste",
+          "1/2 cup cooked brown rice or quinoa"
+        ],
+        "method": [
+          "Brown the beef mince in a pan.",
+          "Drain excess fat if needed.",
+          "Add onion, garlic and capsicum.",
+          "Add tomatoes, beans and spices.",
+          "Simmer for 15–20 minutes.",
+          "Serve with brown rice or quinoa."
+        ]
+      },
+      "snack": "Carrot sticks\nCucumber sticks\nHummus"
+    }
+  },
+  {
+    "day": 3,
+    "meals": {
+      "breakfast": {
+        "name": "Overnight Oats with Banana",
+        "ingredients": [
+          "1/2 cup rolled oats",
+          "1 tbsp chia seeds or ground flaxseed",
+          "1/2 banana",
+          "Low-fat milk or unsweetened soy milk",
+          "Cinnamon",
+          "1 tbsp peanut butter or chopped nuts"
+        ],
+        "method": [
+          "Add oats, chia/flaxseed, banana, milk and cinnamon to a container.",
+          "Mix well.",
+          "Refrigerate overnight.",
+          "Top with peanut butter or nuts before eating."
+        ]
+      },
+      "lunch": {
+        "name": "Chicken and Bean Soup",
+        "ingredients": [
+          "120g chicken breast",
+          "1/2 can cannellini beans or lentils",
+          "1 carrot",
+          "1 celery stick",
+          "1 onion",
+          "2 garlic cloves",
+          "Spinach",
+          "Low-salt stock",
+          "Pepper",
+          "Mixed herbs"
+        ],
+        "method": [
+          "Add onion, garlic, carrot and celery to a pot.",
+          "Add chicken, beans and stock.",
+          "Simmer until chicken is cooked.",
+          "Shred the chicken.",
+          "Add spinach at the end.",
+          "Season with pepper and herbs."
+        ]
+      },
+      "dinner": {
+        "name": "Tuna Wholemeal Pasta",
+        "ingredients": [
+          "1 can tuna in spring water",
+          "1 cup cooked wholemeal pasta",
+          "1/2 can crushed tomatoes",
+          "2 garlic cloves",
+          "Spinach",
+          "Broccoli",
+          "Chilli flakes",
+          "1 tsp olive oil"
+        ],
+        "method": [
+          "Cook pasta.",
+          "Heat olive oil in a pan.",
+          "Add garlic, tomatoes, broccoli and spinach.",
+          "Add tuna.",
+          "Mix in cooked pasta.",
+          "Season with chilli flakes and pepper."
+        ]
+      },
+      "snack": "Greek yoghurt\nBerries"
+    }
+  },
+  {
+    "day": 4,
+    "meals": {
+      "breakfast": {
+        "name": "Savoury Oats with Egg",
+        "ingredients": [
+          "1/2 cup rolled oats",
+          "Water or low-salt stock",
+          "Spinach",
+          "Mushroom",
+          "1 whole egg",
+          "Pepper",
+          "Chilli flakes",
+          "Spring onion"
+        ],
+        "method": [
+          "Cook oats with water or low-salt stock.",
+          "Stir in spinach and mushroom.",
+          "Cook or poach one egg separately.",
+          "Top oats with egg.",
+          "Add pepper, chilli flakes and spring onion."
+        ]
+      },
+      "lunch": {
+        "name": "Chicken Quinoa Salad",
+        "ingredients": [
+          "120–150g grilled chicken",
+          "1/2 cup cooked quinoa",
+          "Spinach or lettuce",
+          "Tomato",
+          "Cucumber",
+          "Capsicum",
+          "1 tbsp pumpkin seeds",
+          "Lemon juice",
+          "1 tsp olive oil",
+          "Pepper"
+        ],
+        "method": [
+          "Add quinoa, vegetables and chicken to a bowl.",
+          "Add lemon juice, olive oil and pepper.",
+          "Top with pumpkin seeds.",
+          "Mix and serve."
+        ]
+      },
+      "dinner": {
+        "name": "Lamb and Vegetable Bowl",
+        "ingredients": [
+          "120–150g lean lamb, trimmed of visible fat",
+          "Kumara or potato",
+          "Broccoli",
+          "Carrot",
+          "Zucchini",
+          "1 tsp olive oil",
+          "Garlic",
+          "Rosemary",
+          "Pepper"
+        ],
+        "method": [
+          "Roast kumara or potato with vegetables using minimal oil.",
+          "Season lamb with garlic, rosemary and pepper.",
+          "Grill or pan-sear lamb.",
+          "Serve lamb with roasted vegetables.",
+          "Keep vegetables as the largest part of the plate."
+        ]
+      },
+      "snack": "Orange or kiwifruit\nSmall handful of walnuts"
+    }
+  },
+  {
+    "day": 5,
+    "meals": {
+      "breakfast": {
+        "name": "Greek Yoghurt Protein Bowl",
+        "ingredients": [
+          "1 cup low-fat Greek yoghurt",
+          "1/4 cup rolled oats",
+          "1 tbsp chia seeds",
+          "Berries or chopped apple",
+          "Cinnamon",
+          "1 tbsp almonds"
+        ],
+        "method": [
+          "Add yoghurt to a bowl.",
+          "Mix in oats and chia seeds.",
+          "Add fruit and cinnamon.",
+          "Top with almonds."
+        ]
+      },
+      "lunch": {
+        "name": "Egg and Tuna Salad Sandwich",
+        "ingredients": [
+          "1 can tuna in spring water",
+          "1 boiled egg",
+          "1 tbsp Greek yoghurt",
+          "Mustard or lemon juice",
+          "Lettuce",
+          "Tomato",
+          "2 slices wholegrain bread",
+          "Pepper"
+        ],
+        "method": [
+          "Mash tuna, boiled egg, Greek yoghurt and mustard/lemon together.",
+          "Add pepper.",
+          "Add lettuce and tomato to bread.",
+          "Add tuna egg mixture.",
+          "Serve as a sandwich."
+        ]
+      },
+      "dinner": {
+        "name": "Chicken Stir-Fry",
+        "ingredients": [
+          "150g chicken breast",
+          "Broccoli",
+          "Capsicum",
+          "Carrot",
+          "Bok choy or cabbage",
+          "Garlic",
+          "Ginger",
+          "1 tsp olive oil or canola oil",
+          "Low-salt soy sauce",
+          "1/2 cup cooked brown rice"
+        ],
+        "method": [
+          "Slice chicken and vegetables.",
+          "Heat oil in a pan.",
+          "Cook chicken until browned.",
+          "Add garlic, ginger and vegetables.",
+          "Add low-salt soy sauce.",
+          "Serve with brown rice."
+        ]
+      },
+      "snack": "Hummus\nWholegrain crackers"
+    }
+  },
+  {
+    "day": 6,
+    "meals": {
+      "breakfast": {
+        "name": "Egg, Beans and Toast",
+        "ingredients": [
+          "1 whole egg",
+          "2 egg whites",
+          "1/2 cup low-salt baked beans or black beans",
+          "1 slice wholegrain toast",
+          "Spinach",
+          "Tomato",
+          "Pepper"
+        ],
+        "method": [
+          "Scramble egg and egg whites.",
+          "Warm beans.",
+          "Toast bread.",
+          "Serve with spinach and tomato."
+        ]
+      },
+      "lunch": {
+        "name": "Beef Mince Lettuce and Rice Bowl",
+        "ingredients": [
+          "120–150g lean beef mince",
+          "Lettuce or spinach",
+          "Tomato",
+          "Cucumber",
+          "Corn",
+          "1/2 cup cooked brown rice",
+          "1/4 avocado",
+          "Chilli powder",
+          "Cumin",
+          "Paprika",
+          "Greek yoghurt"
+        ],
+        "method": [
+          "Cook mince with chilli, cumin and paprika.",
+          "Drain excess fat.",
+          "Add rice to a bowl.",
+          "Add lettuce, tomato, cucumber and corn.",
+          "Add mince and avocado.",
+          "Top with Greek yoghurt."
+        ]
+      },
+      "dinner": {
+        "name": "Lentil Chicken Stew",
+        "ingredients": [
+          "120g chicken breast",
+          "1/2 cup cooked lentils or 1/4 cup dry lentils",
+          "Carrot",
+          "Onion",
+          "Celery",
+          "Tomato",
+          "Spinach",
+          "Garlic",
+          "Mixed herbs",
+          "Pepper"
+        ],
+        "method": [
+          "Add onion, garlic, carrot and celery to a pot.",
+          "Add chicken, lentils, tomato and water or low-salt stock.",
+          "Simmer until chicken and lentils are cooked.",
+          "Add spinach at the end.",
+          "Season with herbs and pepper."
+        ]
+      },
+      "snack": "Banana\nSmall handful of nuts"
+    }
+  },
+  {
+    "day": 7,
+    "meals": {
+      "breakfast": {
+        "name": "Oat Pancakes",
+        "ingredients": [
+          "1/2 cup rolled oats",
+          "1 banana",
+          "1 egg",
+          "1 tbsp Greek yoghurt",
+          "Cinnamon",
+          "Optional: 1 tbsp ground flaxseed",
+          "Berries for topping"
+        ],
+        "method": [
+          "Blend or mash oats, banana, egg, yoghurt and cinnamon.",
+          "Cook small pancakes in a non-stick pan.",
+          "Serve with berries and extra yoghurt."
+        ]
+      },
+      "lunch": {
+        "name": "Chicken Hummus Bowl",
+        "ingredients": [
+          "120–150g cooked chicken",
+          "2 tbsp hummus",
+          "Lettuce or spinach",
+          "Cucumber",
+          "Tomato",
+          "Carrot",
+          "1/2 cup cooked brown rice or quinoa",
+          "Lemon juice",
+          "Pepper"
+        ],
+        "method": [
+          "Add rice or quinoa to a bowl.",
+          "Add vegetables and chicken.",
+          "Add hummus and lemon juice.",
+          "Season with pepper."
+        ]
+      },
+      "dinner": {
+        "name": "Tuna and Bean Patties",
+        "ingredients": [
+          "1 can tuna in spring water, drained",
+          "1/2 can cannellini beans or chickpeas, mashed",
+          "1 egg",
+          "Spring onion",
+          "Pepper",
+          "Chilli flakes",
+          "Parsley",
+          "2 tbsp oats or wholemeal breadcrumbs",
+          "Salad vegetables",
+          "Roasted vegetables"
+        ],
+        "method": [
+          "Mash beans in a bowl.",
+          "Add tuna, egg, spring onion, pepper, chilli and oats/breadcrumbs.",
+          "Shape into patties.",
+          "Pan-cook with minimal oil.",
+          "Serve with salad and roasted vegetables."
+        ]
+      },
+      "snack": "Greek yoghurt or fruit"
+    }
+  }
+]

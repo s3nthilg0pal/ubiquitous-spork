@@ -1,0 +1,10 @@
+**/node_modules
+**/dist
+frontend/dist
+backend/web/*
+!backend/web/index.html
+.git
+.gitignore
+*.md
+k8s
+data
